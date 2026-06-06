@@ -1,5 +1,14 @@
-## Hi there 👋
+### Zach Riley
 
+Backend engineer in Brooklyn. Currently at [Dragin Technologies](https://www.dragin.io/) — shipping AI underwriting agents on AWS Bedrock + AgentCore, plus the observability and data infra around them.
+
+**Stack:** Python · TypeScript · AWS (Lambda, ECS, Bedrock, AgentCore, Athena) · Postgres · Docker
+
+**Lane:** AI infrastructure — agent orchestration, RAG, evals, LLM proxies, observability.
+
+**Currently:** chipping away at *Designing Data-Intensive Applications* and the Norwegian 4×4 protocol, separately.
+
+Find me at [zachriley.dev](https://zachriley.dev) · [LinkedIn](https://linkedin.com/in/zdriley)
 <!--
 **ZRiley36/ZRiley36** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
