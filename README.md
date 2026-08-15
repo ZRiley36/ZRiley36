@@ -2,7 +2,7 @@
 
 Backend engineer in Brooklyn. Currently at [Dragin Technologies](https://www.dragin.io/) — shipping AI underwriting agents on AWS Bedrock + AgentCore, plus the observability and data infra around them.
 
-**Stack:** Python · TypeScript · AWS (Lambda, ECS, Bedrock, AgentCore, Athena) · Postgres · Docker
+**Stack:** Python · TypeScript · AWS (Lambda, ECS, Bedrock, AgentCore, Athena) · Postgres · Docker · Kubernetes
 
 **Lane:** AI infrastructure — agent orchestration, RAG, evals, LLM proxies, observability.
 
